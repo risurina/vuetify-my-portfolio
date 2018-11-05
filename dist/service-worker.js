@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9b48a607aeeb907e04a007d8ec12b28b.js"
+  "/precache-manifest.302060969c967dd0fe2fb6a2df19afdc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vuetify-portfolio"});
